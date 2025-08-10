@@ -1,0 +1,16 @@
+# Python Cache
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Environment variables (NEVER commit secrets)
+.env
+
+# Database migrations (auto-generated)
+alembic/versions/*.py
+
+# IDE
+.vscode/
+.idea/
